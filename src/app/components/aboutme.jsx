@@ -36,8 +36,8 @@ const AboutMe = () => {
                         see some of my work.
                     </p>
                     <p className="text-lg pt-4">
-                        I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches 
-                        my skills and experience then don't hesitate to contact me.
+                        I am open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches 
+                        my skills and experience then do not hesitate to contact me.
                     </p>
                     <button href={"#contact"} className="mt-8 bg-[#f0f0f0e0] text-black w-32 h-10 rounded font-semibold hover:bg-[#73727266] hover:text-[#f0f0f0]">Contact Me</button>
                 </div>
